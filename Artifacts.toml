@@ -1,0 +1,76 @@
+[[ImarisWriter]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50a95b99bf1579188d3237b56a5e941efdb79f84"
+libc = "glibc"
+os = "linux"
+
+    [[ImarisWriter.download]]
+    sha256 = "3df45d29ae2ffadbe2cbb451c32652aef175e382ec9e0c7f65e3b06216ac0eb8"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[ImarisWriter]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "db49140e80aed606987a90dcce739d193e8243bd"
+libc = "glibc"
+os = "linux"
+
+    [[ImarisWriter.download]]
+    sha256 = "3f74b7b775a6029b5e6c39e2528c5cdc01b5ecd026c3482915ba65a3106fb8df"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[ImarisWriter]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27a504bc3a4b83acb53ddc141f5f2814cb685314"
+os = "windows"
+
+    [[ImarisWriter.download]]
+    sha256 = "78852121b3ab330a9f4f4c4f579eb85f77aa4a8fea4159cabedc144d44509e8f"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[ImarisWriter]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c616286fc34256845c1001258ffbde07ae429617"
+os = "windows"
+
+    [[ImarisWriter.download]]
+    sha256 = "1028776d4770008446a1ca6d1fd67e4d89bfd4601f4223319576f7b2e6d0cacc"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[ImarisWriter]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "12d0bfed1fb0515e5bd07172eb0a308d09a3ad99"
+libc = "glibc"
+os = "linux"
+
+    [[ImarisWriter.download]]
+    sha256 = "dac6559069a586d1b3ded4d9340443879eac714e301c30fbbd879c810ac1e084"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[ImarisWriter]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bedcfe9ab563ee1de22055bd416daedff9aee4e9"
+libc = "glibc"
+os = "linux"
+
+    [[ImarisWriter.download]]
+    sha256 = "5c87a5c1194e79ea200116aaa1ecb709d00d967331490199eeaaded8128e36ae"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[ImarisWriter]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e19b106431fa16eecd703f53cc909bfbc1734c4"
+os = "windows"
+
+    [[ImarisWriter.download]]
+    sha256 = "4ac55efee1188926c0bda2cdd75686f4bffd780fe422aae3346cac8f3a262c61"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ImarisWriter]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44900fdf2d689af1284b73743ad8288f953b0997"
+os = "windows"
+
+    [[ImarisWriter.download]]
+    sha256 = "75bc6b531344fc76fee705efb6d3d3af70b1bf2456232e190ba88a4ec07f5da4"
+    url = "https://github.com/JuliaBinaryWrappers/ImarisWriter_jll.jl/releases/download/ImarisWriter-v0.0.1+0/ImarisWriter.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
